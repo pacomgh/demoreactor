@@ -13,3 +13,4 @@ resultado = suma(num1, num2)
 resultado2 = resta(num1, num2)
 
 print('El resultado es: ',resultado2)
+print('El resultado es: ',resultado)
