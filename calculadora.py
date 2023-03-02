@@ -9,7 +9,13 @@ def resta(numero1, numero2):
     total = numero1 - numero2
     return total
 
+def mul(numero1, numero2):
+    total = numero1 * numero2
+    return total
+
 resultado = suma(num1, num2)
 resultado2 = resta(num1, num2)
+resultado3 = mul(num1, num2)
 
-print('El resultado es: ',resultado2)
+
+print('El resultado es: ',resultado3)
