@@ -1,4 +1,4 @@
-num1 = 5
+num1 = 120
 num2 = -2
 
 def suma(numero1, numero2):
